@@ -1,0 +1,16 @@
+export default {
+  'menu.visualization.dataAnalysis': '邪典视频态势感知',
+  'dataAnalysis.title.publicOpinion': '视频信息分析',
+  'dataAnalysis.card.title.allVisitors': '总检测量',
+  'dataAnalysis.card.title.contentPublished': '点赞总量',
+  'dataAnalysis.card.title.totalComment': '分享总量',
+  'dataAnalysis.card.title.totalShare': '分享总量',
+  'dataAnalysis.card.yesterday': '较昨日',
+  'dataAnalysis.contentPublishRatio': '近日邪典视频发布趋势',
+  'dataAnalysis.popularAuthor': '高频关键词云',
+  'dataAnalysis.popularAuthor.column.ranking': '排名',
+  'dataAnalysis.popularAuthor.column.author': '作者',
+  'dataAnalysis.popularAuthor.column.content': '内容量',
+  'dataAnalysis.popularAuthor.column.click': '点击量',
+  'dataAnalysis.contentPeriodAnalysis': '邪典视频发布时间规律统计',
+};

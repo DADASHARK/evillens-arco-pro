@@ -1,0 +1,27 @@
+export default {
+  'menu.visualization.multiDimensionDataAnalysis': '邪典用户画像分析',
+  'multiDAnalysis.card.title.dataOverview': '数据总览',
+  'multiDAnalysis.dataOverview.contentProduction': '内容生产量',
+  'multiDAnalysis.dataOverview.contentClick': '内容点击量',
+  'multiDAnalysis.dataOverview.contentExposure': '内容曝光量',
+  'multiDAnalysis.dataOverview.activeUsers': '活跃用户数',
+  'multiDAnalysis.card.title.userActions': '邪典视频分布TOP10',
+  'multiDAnalysis.card.title.contentTypeDistribution': '内容题材分布',
+  'multiDAnalysis.card.title.retentionTrends': '用户留存趋势',
+  'multiDAnalysis.card.title.userRetention': '用户留存量',
+  'multiDAnalysis.card.title.contentConsumptionTrends': '内容消费趋势',
+  'multiDAnalysis.card.title.contentConsumption': '内容消费量',
+  'multiDAnalysis.card.title.contentPublishingSource': '用户画像分析',
+
+  // 用户画像相关翻译
+  'visualization.userProfile.title': '用户画像分析',
+  'visualization.userProfile.searchPlaceholder': '请输入抖音用户ID',
+  'visualization.userProfile.enterUserId': '请输入用户ID',
+  'visualization.userProfile.searchSuccess': '获取用户信息成功',
+  'visualization.userProfile.searchFailed': '获取用户信息失败',
+  'visualization.userProfile.noData': '暂无用户数据，请搜索用户ID',
+  'visualization.userProfile.followCount': '关注数',
+  'visualization.userProfile.fansCount': '粉丝数',
+  'visualization.userProfile.likeCount': '获赞数',
+  'visualization.userProfile.videoList': '视频列表',
+};

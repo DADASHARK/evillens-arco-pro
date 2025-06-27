@@ -1,0 +1,47 @@
+export default {
+  'menu.list.searchTable': '根据关键词查询',
+  'searchTable.form.number': '视频ID',
+  'searchTable.form.number.placeholder': '请输入视频ID',
+  'searchTable.form.name': '关键词',
+  'searchTable.form.name.placeholder': '请输入关键词',
+  'searchTable.form.contentType': '邪典内容分类',
+  'searchTable.form.contentType.img': '图文',
+  'searchTable.form.contentType.horizontalVideo': '短视频',
+  'searchTable.form.contentType.verticalVideo': '竖版小视频',
+  'searchTable.form.filterType': '筛选方式',
+  'searchTable.form.filterType.artificial': '人工筛选',
+  'searchTable.form.filterType.rules': '规则筛选',
+  'searchTable.form.createdTime': '创建时间',
+  'searchTable.form.status': '状态',
+  'searchTable.form.status.online': '仍在平台',
+  'searchTable.form.status.offline': '已经下架',
+  'searchTable.form.search': '查询',
+  'searchTable.form.reset': '重置',
+  'searchTable.form.selectDefault': '全部',
+  'searchTable.operation.create': '新建',
+  'searchTable.operation.import': '批量导入',
+  'searchTable.operation.download': '下载',
+  // columns
+  'searchTable.columns.index': '#',
+  'searchTable.columns.number': '视频ID',
+  'searchTable.columns.name': '视频标题',
+  'searchTable.columns.contentType': '作者',
+  'searchTable.columns.filterType': '传播指数',
+  'searchTable.columns.count': '点赞量',
+  'searchTable.columns.createdTime': '创建时间',
+  'searchTable.columns.author': '作者', // 新增
+  'searchTable.columns.engagement': '传播指数', // 新增
+  'searchTable.columns.status': '状态',
+  'searchTable.columns.operations': '操作',
+  'searchTable.columns.operations.view': '查看',
+
+  // size
+  'searchTable.size.mini': '迷你',
+  'searchTable.size.small': '偏小',
+  'searchTable.size.medium': '中等',
+  'searchTable.size.large': '偏大',
+  // actions
+  'searchTable.actions.refresh': '刷新',
+  'searchTable.actions.density': '密度',
+  'searchTable.actions.columnSetting': '列设置',
+};
