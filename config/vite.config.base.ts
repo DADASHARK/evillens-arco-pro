@@ -7,6 +7,7 @@ import configArcoStyleImportPlugin from './plugin/arcoStyleImport';
 import alias from '@rollup/plugin-alias';
 
 export default defineConfig({
+  base: process.env.NODE_ENV === 'production' ? '/evillens-arco-pro/' : '/',
   plugins: [
     vue(),
     alias(),

@@ -13,7 +13,8 @@ export default defineConfig(({ command, mode }) => {
 
   // 基础配置
   const baseConfig = {
-    base: '/evillens-arco-pro/',
+    // 确保 base 路径正确设置为仓库名称
+    base: mode === 'production' ? '/evillens-arco-pro/' : '/',
     plugins: [vue()],
     resolve: {
       alias: {
