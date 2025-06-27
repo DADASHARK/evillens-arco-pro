@@ -43,7 +43,7 @@ export default defineConfig(({ command, mode }) => {
           '@/views/visualization/multi-dimension-data-analysis/mock',
           '@/views/user/info/mock',
           '@/views/user/setting/mock',
-          '@/store',
+          // '@/store',
         ],
         onwarn(warning, warn) {
           // 忽略特定的解析错误
