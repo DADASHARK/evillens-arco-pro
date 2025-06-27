@@ -23,7 +23,7 @@ export default mergeConfig(
           '@/views/visualization/multi-dimension-data-analysis/mock',
           '@/views/user/info/mock',
           '@/views/user/setting/mock',
-          '@/store',
+          // '@/store',
         ],
         output: {
           manualChunks: {
