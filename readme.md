@@ -5,7 +5,7 @@
 [风险值刷新时间](./src/components/navbar/index.vue#L284)
 [修改导航栏](./src/router/routes/modules/)
 [错误提示别忘了改回来](.\src\api\interceptor.ts#L88-91)
-封装可能存在问题的文件：D:\xinansai\web\evillens-arco-pro\src\utils\env.ts
+封装可能存在问题的文件：evillens-arco-pro\src\utils\env.ts
 [更改导航栏显示上下顺序](.src\router\routes\modules\dashboard.ts#L12)
 
 
