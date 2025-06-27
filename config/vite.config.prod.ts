@@ -18,12 +18,12 @@ export default mergeConfig(
       rollupOptions: {
         external: [
           // 使用相对路径而不是别名路径
-          '@/views/introduce/index.vue',
-          '@/views/visualization/data-analysis/mock',
-          '@/views/visualization/multi-dimension-data-analysis/mock',
-          '@/views/user/info/mock',
-          '@/views/user/setting/mock',
-          // '@/store',
+          './src/views/introduce/index.vue',
+          './src/views/visualization/data-analysis/mock',
+          './src/views/visualization/multi-dimension-data-analysis/mock',
+          './src/views/user/info/mock',
+          './src/views/user/setting/mock',
+          './src/store',
         ],
         output: {
           manualChunks: {
