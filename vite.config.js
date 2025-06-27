@@ -13,6 +13,7 @@ export default defineConfig(({ command, mode }) => {
 
   // 基础配置
   const baseConfig = {
+    base: '/evillens-arco-pro/',
     plugins: [vue()],
     resolve: {
       alias: {
